@@ -5,7 +5,7 @@ I'm Currently working on: <br>
 ► <a href="https://github.com/blindka/Friendly-Messages"> Friendly-Messages</a> - A bot for discord
 <br>
 <h5>Skills:</h5>
-► HTML
-► CSS
-► Java
-► C
+► HTML <br>
+► CSS <br>
+► Java <br>
+► C <br>
