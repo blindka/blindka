@@ -1,5 +1,13 @@
-<h5>Hello my name is Eyal Haimov, I'm a computer sceince student at the open university </h5>
-<h5> Others: </h5> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blindka)](https://github.com/anuraghazra/github-readme-stats)
+Hello, I am Computer Scienece Student 
+<img align="left" width="%47" src="https://github-readme-stats.vercel.app/api?username=blindka&show_icons=true&theme=radical" />
 
-► <a href="https://www.linkedin.com/in/eyal-haimov-1720981b9/"> Linkedin</a> <br>
+<img width="%47" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blindka&layout=compact" />
+
+<img align="left" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img align="left" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+
+
