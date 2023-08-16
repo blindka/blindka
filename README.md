@@ -4,6 +4,7 @@ Hello, I am Computer Scienece Student
 
 <img  align="left" width="%47" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blindka&layout=compact" />
 
+
 <br>
 <img align="left" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img align="left" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
