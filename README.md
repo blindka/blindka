@@ -1,6 +1,6 @@
 Hello, I am Computer Scienece Student 
 
-<img align="left" width="%47" src="https://github-readme-stats-sigma-five.vercel.app/api?username=blindka&show_icons=true&theme=radical" />
+<img align="left" width="%47" src="https://github-readme-stats-sigma-five.vercel.app/api?username=blindka&show_icons=true&theme=tokyonight" />
 <img  width="%47" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=blindka&layout=compact" />
 
 
